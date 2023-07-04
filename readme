@@ -1,0 +1,13 @@
+# proyecto ejemplo para analiss de audio
+
+formatos permitido wav
+
+requisitos:
+
+- python3
+- ffmpeg libreia externa:
+  https://phoenixnap.com/kb/ffmpeg-windows y https://phoenixnap.com/kb/ffmpeg-windows
+
+Librerias:
+
+pip install -r requirements.txt
